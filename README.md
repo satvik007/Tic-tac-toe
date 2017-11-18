@@ -1,2 +1,2 @@
 # Tic-tac-toe
-FPGA based project
+Tic tac toe on fpga
